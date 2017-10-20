@@ -75,7 +75,7 @@ namespace AssemblyToBinaryTranslator
                 
             }
 
-            throw new ArgumentException("That instruction do not exists!");
+            throw new ArgumentException("That instruction does not exists!");
 
         }
 
